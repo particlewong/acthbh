@@ -18,5 +18,6 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git serverchan https://github.com/tty228/luci-app-serverchan' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git jddailybonus https://github.com/jerrykuku/luci-app-jd-dailybonus' >>feeds.conf.default
-#echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
-#echo 'src-git openclash https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash' >>feeds.conf.default
+echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
+echo 'src-git openclash https://github.com/vernesong/OpenClash/tree/master/luci-app-openclash' >>feeds.conf.default
+echo 'src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' >>feeds.conf.default
